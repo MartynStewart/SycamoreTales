@@ -2,3 +2,4 @@
 * text=auto
 *.js linguist-vendored=false
 *.asp linguist-vendored=false
+*.aspx linguist-vendored=false
